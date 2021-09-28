@@ -1,8 +1,5 @@
 #bin/python
-#code by mr.riskis7 
-#youtube : riskis7 tuyulers
-#team : bengkulu cyber team security
-
+#edited riskiakbar279
 import asyncio
 import logging
 import re
